@@ -1,0 +1,4 @@
+[console_scripts]
+apply_pipeline = bot_detector.apply_pipeline:main
+fit_pipeline = bot_detector.fit_pipeline:main
+

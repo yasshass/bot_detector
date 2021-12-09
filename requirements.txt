@@ -1,0 +1,17 @@
+## DATA / MATHS
+pandas==1.3.4
+sklearn==0.0
+joblib==1.1.0
+
+## CONF
+python-decouple==3.5
+
+# notebooks
+jupyter==1.0.0
+
+# linting
+flake8==4.0.1
+
+# Visualization
+matplotlib==3.5.0
+seaborn==0.11.2
